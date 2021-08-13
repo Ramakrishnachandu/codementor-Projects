@@ -4,8 +4,5 @@ My entry for the **Random number generator web app** practice project on [*Codem
 
 Here the link to the app itself:
 
-[Random Number Generator Web App](https://rand-num-generator-web-app.herokuapp.com/index.php).
+[Random Number Generator Web App].
 
-<a href="https://rand-num-generator-web-app.herokuapp.com/index.php">
-    <img alt="Mock-Up of Random Number Generator Web App" src="static/mockup-rng.png">
-</a>
